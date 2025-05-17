@@ -1,4 +1,8 @@
 # QR Code Authentication Using CNN and Traditional ML Models 
+
+![image alt](https://github.com/nilwagh8800/QR-Code-Authentication-Using-CNN-and-Traditional-ML-Models/blob/b77cf64bf23be60a31b0ce759f8d0cb7c1b60efc/Counterfeit.png) 
+![image alt](https://github.com/nilwagh8800/QR-Code-Authentication-Using-CNN-and-Traditional-ML-Models/blob/b77cf64bf23be60a31b0ce759f8d0cb7c1b60efc/Original.png)
+
  ## 1. Introduction 
 QR (Quick Response) codes are widely used for encoding information. However, counterfeit 
 QR codes can lead to financial fraud and data breaches. This project aims to build a system 
